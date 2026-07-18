@@ -3,6 +3,7 @@
 ## Descripción
 
 Este proyecto desarrolla un pipeline completo de Machine Learning para predecir la presencia de enfermedad cardíaca a partir de variables clínicas.
+Nombre del archivo: ProyectoFinal2-Martinelli.ipynb
 
 El trabajo incluye:
 
